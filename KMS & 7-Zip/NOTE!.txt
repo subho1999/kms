@@ -1,0 +1,2 @@
+
+Don´t extract / copy the zip-file to your PC before you have disabled Defender Real Time Protection!
